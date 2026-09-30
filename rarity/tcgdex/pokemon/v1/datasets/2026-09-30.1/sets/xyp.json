@@ -1,0 +1,876 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "xyp",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 216,
+  "cards": [
+    {
+      "externalCardId": "xyp-XY01",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY02",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY03",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY04",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY05",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY06",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY07",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY08",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY09",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY10",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY100",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY101",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY102",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY103",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY104",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY105",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY106",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY107",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY108",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY109",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY11",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY110",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY111",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY112",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY113",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY114",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY115",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY116",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY117",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY118",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY119",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY12",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY120",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY121",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY122",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY123",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY124",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY125",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY126",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY127",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY128",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY129",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY13",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY130",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY131",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY132",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY133",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY134",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY135",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY136",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY137",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY138",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY139",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY14",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY140",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY141",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY142",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY143",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY144",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY145",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY146",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY147",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY148",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY149",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY15",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY150",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY150a",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY151",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY152",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY153",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY154",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY155",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY156",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY157",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY158",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY159",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY16",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY160",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY161",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY162",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY163",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY164",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY165",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY166",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY167",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY168",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY169",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY17",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY170",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY171",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY172",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY173",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY174",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY175",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY176",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY177",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY177a",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY178",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY179",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY18",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY180",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY181",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY182",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY183",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY184",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY185",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY186",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY187",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY188",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY189",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY19",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY190",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY191",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY192",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY193",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY194",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY195",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY196",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY197",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY198",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY198a",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY199",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY20",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY200",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY200a",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY201",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY202",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY203",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY204",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY205",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY206",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY207",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY208",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY209",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY21",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY210",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY211",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY22",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY23",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY24",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY25",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY26",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY27",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY28",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY29",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY30",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY31",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY32",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY33",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY34",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY35",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY36",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY37",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY38",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY39",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY40",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY41",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY42",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY43",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY44",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY45",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY46",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY47",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY48",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY49",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY50",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY51",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY52",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY53",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY54",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY55",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY56",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY57",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY58",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY59",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY60",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY61",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY62",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY63",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY64",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY65",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY66",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY67",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY67a",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY68",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY69",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY70",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY71",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY72",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY73",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY74",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY75",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY76",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY77",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY78",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY79",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY80",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY81",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY82",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY83",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY84",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY85",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY86",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY87",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY88",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY89",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY90",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY91",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY92",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY93",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY94",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY95",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY96",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY97",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY98",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "xyp-XY99",
+      "providerRarityValue": "Promo"
+    }
+  ]
+}

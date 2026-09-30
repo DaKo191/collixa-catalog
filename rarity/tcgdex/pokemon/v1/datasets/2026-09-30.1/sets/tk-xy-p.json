@@ -1,0 +1,132 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "tk-xy-p",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 30,
+  "cards": [
+    {
+      "externalCardId": "tk-xy-p-1",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-10",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-11",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-12",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-13",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-14",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-15",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-16",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-17",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-18",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-19",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-2",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-20",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-21",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-22",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-23",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-24",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-25",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-26",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-27",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-28",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-29",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-3",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-30",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-4",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-p-5",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-6",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-p-8",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-p-9",
+      "providerRarityValue": "Common"
+    }
+  ]
+}

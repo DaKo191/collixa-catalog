@@ -1,0 +1,440 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "ex9",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 107,
+  "cards": [
+    {
+      "externalCardId": "ex9-1",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-10",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-100",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-101",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-102",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-103",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-104",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-105",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-106",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-107",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-11",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-12",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-13",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-14",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-15",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-16",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-17",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-18",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-19",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-2",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-20",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-21",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-22",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-23",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-24",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-25",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-26",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-27",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-28",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-29",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-3",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-30",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-31",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-32",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-33",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-34",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-35",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-36",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-37",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-38",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-39",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-4",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-40",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-41",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-42",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-43",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-44",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-45",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-46",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-47",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-48",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-49",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-5",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-50",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-51",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-52",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-53",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-54",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-55",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-56",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-57",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-58",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-59",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-6",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-60",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-61",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-62",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-63",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-64",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-65",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-66",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-67",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-68",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-69",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-7",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-70",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-71",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-72",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-73",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-74",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "ex9-75",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-76",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-77",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-78",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-79",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-8",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-80",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-81",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-82",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-83",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-84",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-85",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "ex9-86",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-87",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-88",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-89",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-9",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-90",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-91",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-92",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-93",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-94",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-95",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-96",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-97",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-98",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "ex9-99",
+      "providerRarityValue": "Rare"
+    }
+  ]
+}

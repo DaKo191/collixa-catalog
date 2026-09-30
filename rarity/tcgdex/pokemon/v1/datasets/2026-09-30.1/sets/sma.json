@@ -1,0 +1,388 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "sma",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 94,
+  "cards": [
+    {
+      "externalCardId": "sma-SV1",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV10",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV11",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV12",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV13",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV14",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV15",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV16",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV17",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV18",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV19",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV2",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV20",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV21",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV22",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV23",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV24",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV25",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV26",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV27",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV28",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV29",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV3",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV30",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV31",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV32",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV33",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV34",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV35",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV36",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV37",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV38",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV39",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV4",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV40",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV41",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV42",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV43",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV44",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV45",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV46",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV47",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV48",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV49",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV5",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV50",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV51",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV52",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV53",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV54",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV55",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV56",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV57",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV58",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV59",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV6",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV60",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV61",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV62",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV63",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV64",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV65",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV66",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV67",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV68",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV69",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV7",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV70",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV71",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV72",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV73",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV74",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV75",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV76",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV77",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV78",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV79",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV8",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV80",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV81",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV82",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV83",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV84",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV85",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV86",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV87",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV88",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV89",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV9",
+      "providerRarityValue": "Shiny rare"
+    },
+    {
+      "externalCardId": "sma-SV90",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV91",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV92",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV93",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "sma-SV94",
+      "providerRarityValue": "Secret Rare"
+    }
+  ]
+}

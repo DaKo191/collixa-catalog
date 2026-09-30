@@ -1,0 +1,112 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "hgssp",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 25,
+  "cards": [
+    {
+      "externalCardId": "hgssp-HGSS01",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS02",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS03",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS04",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS05",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS06",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS07",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS08",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS09",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS10",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS11",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS12",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS13",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS14",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS15",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS16",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS17",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS18",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS19",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS20",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS21",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS22",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS23",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS24",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "hgssp-HGSS25",
+      "providerRarityValue": "Promo"
+    }
+  ]
+}

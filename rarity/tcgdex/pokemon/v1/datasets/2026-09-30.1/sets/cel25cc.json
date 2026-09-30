@@ -1,0 +1,112 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "cel25cc",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 25,
+  "cards": [
+    {
+      "externalCardId": "cel25cc-CC001",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC002",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC003",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC004",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC005",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC006",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC007",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC008",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC009",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC010",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC011",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC012",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC013",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC014",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC015",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC016",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC017",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC018",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC019",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC020",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC021",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC022",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC023",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC024",
+      "providerRarityValue": "Classic Collection"
+    },
+    {
+      "externalCardId": "cel25cc-CC025",
+      "providerRarityValue": "Classic Collection"
+    }
+  ]
+}

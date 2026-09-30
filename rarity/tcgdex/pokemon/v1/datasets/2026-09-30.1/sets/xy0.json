@@ -1,0 +1,168 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "xy0",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 39,
+  "cards": [
+    {
+      "externalCardId": "xy0-1",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-10",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-11",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-12",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-13",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-14",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-15",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-16",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-17",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-18",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-19",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-2",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-20",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-21",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-22",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-23",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-24",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-25",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-26",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-27",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-28",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-29",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-3",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-30",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-31",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-32",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-33",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-34",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-35",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-36",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-37",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-38",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-39",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-4",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-5",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-6",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-8",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "xy0-9",
+      "providerRarityValue": "None"
+    }
+  ]
+}

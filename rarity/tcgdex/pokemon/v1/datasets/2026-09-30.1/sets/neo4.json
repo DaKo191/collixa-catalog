@@ -1,0 +1,464 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "neo4",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 113,
+  "cards": [
+    {
+      "externalCardId": "neo4-1",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-10",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-100",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-101",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-102",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-103",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-104",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-105",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-106",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-107",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-108",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-109",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-11",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-110",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-111",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-112",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-113",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-12",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-13",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-14",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-15",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-16",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-17",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-18",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-19",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-2",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-20",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-21",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-22",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-23",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-24",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-25",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-26",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-27",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-28",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-29",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-3",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-30",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-31",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-32",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-33",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-34",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-35",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-36",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-37",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-38",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-39",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-4",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-40",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-41",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-42",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-43",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-44",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-45",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-46",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-47",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-48",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-49",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-5",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-50",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-51",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-52",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-53",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-54",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-55",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-56",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-57",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-58",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-59",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-6",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-60",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-61",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-62",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-63",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-64",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-65",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-66",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-67",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-68",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-69",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-7",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-70",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-71",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-72",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-73",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-74",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-75",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-76",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-77",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-78",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-79",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-8",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-80",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-81",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-82",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-83",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-84",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-85",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-86",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-87",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-88",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-89",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-9",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-90",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-91",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "neo4-92",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-93",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-94",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-95",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-96",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "neo4-97",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-98",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "neo4-99",
+      "providerRarityValue": "Uncommon"
+    }
+  ]
+}

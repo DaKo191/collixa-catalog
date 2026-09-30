@@ -1,0 +1,16 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "miscp",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 1,
+  "cards": [
+    {
+      "externalCardId": "miscp-001",
+      "providerRarityValue": "Promo"
+    }
+  ]
+}

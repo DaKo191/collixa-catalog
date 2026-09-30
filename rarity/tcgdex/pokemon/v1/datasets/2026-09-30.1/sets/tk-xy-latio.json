@@ -1,0 +1,132 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "tk-xy-latio",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "cardCount": 30,
+  "cards": [
+    {
+      "externalCardId": "tk-xy-latio-1",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-10",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-11",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-12",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-13",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-latio-14",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-latio-15",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-16",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-17",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-18",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-19",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "tk-xy-latio-2",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-20",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-latio-21",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-22",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-latio-23",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-24",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "tk-xy-latio-25",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-latio-26",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-27",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-28",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-29",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-3",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-30",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-xy-latio-4",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-xy-latio-5",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-6",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-7",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-8",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-xy-latio-9",
+      "providerRarityValue": "Common"
+    }
+  ]
+}
