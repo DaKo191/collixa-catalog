@@ -1,0 +1,1015 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-09-30.1",
+  "sourceRevision": "c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78",
+  "sets": [
+    {
+      "externalSetId": "2011bw",
+      "cardCount": 12,
+      "sha256": "2fe53c524f6e68164cb969d5c7d2b732a5fe3545bf42b5d5b7d136e9552d5266"
+    },
+    {
+      "externalSetId": "2012bw",
+      "cardCount": 12,
+      "sha256": "1586a5531329c606608028d782658a0bf46bdff18493b55659d1733e1867b83a"
+    },
+    {
+      "externalSetId": "2014xy",
+      "cardCount": 12,
+      "sha256": "f0ac411aa9d406161655b9047f5dfd78a4796121ec4dd5d1bae48afcbe2008a0"
+    },
+    {
+      "externalSetId": "2015xy",
+      "cardCount": 12,
+      "sha256": "7dcdd52ab39d0fe518a856d01dea935c818ebd239fd17ef2c14626f0a6eb00b0"
+    },
+    {
+      "externalSetId": "2016xy",
+      "cardCount": 12,
+      "sha256": "ea5c99936bc681c7d6875c060a1e8d17f0c97e7169c5594e9090131ee77fd908"
+    },
+    {
+      "externalSetId": "2017sm",
+      "cardCount": 12,
+      "sha256": "26ca5ff0fcc94715d53cb6c1a3d6634b9a16c5a5cc4e606d0d0dae8def3dff0f"
+    },
+    {
+      "externalSetId": "2018sm",
+      "cardCount": 12,
+      "sha256": "f6fc24470b2b4b49b2f52d5cb1db8799d275bbc83ac25146f56209cd6df0fcaa"
+    },
+    {
+      "externalSetId": "2019sm",
+      "cardCount": 12,
+      "sha256": "2a3d8447353f75deeb58d5d9467f7e7c23da4c0119326cde452fe70d07cb6f8c"
+    },
+    {
+      "externalSetId": "2021swsh",
+      "cardCount": 25,
+      "sha256": "4cd414ec395acdc415df8156a8950fed2e5d833557de3db7c7869b6876c8f442"
+    },
+    {
+      "externalSetId": "2022swsh",
+      "cardCount": 15,
+      "sha256": "3a92de00f4e7596175602763a2914e2a72f363e46d2dbeff0ed40a113d834728"
+    },
+    {
+      "externalSetId": "2023sv",
+      "cardCount": 15,
+      "sha256": "c67162381d1c9134fcce43251b00f76730c4549368d4f0c69b17545b3b9d816e"
+    },
+    {
+      "externalSetId": "2024sv",
+      "cardCount": 15,
+      "sha256": "44017b94c3dc857fe3607b88e7487ac8a17566a2199cbe33c4eea09e43344a5d"
+    },
+    {
+      "externalSetId": "30th",
+      "cardCount": 161,
+      "sha256": "1987a8ad8bf3f57d9540d0642b6ad3a27fba4e81cebef7fda00cad8ed2ba3b77"
+    },
+    {
+      "externalSetId": "30th-c",
+      "cardCount": 30,
+      "sha256": "a6d224c1e4a3872bf91b664f7eb52bef640d19352104fd133c80077fd6cf78f8"
+    },
+    {
+      "externalSetId": "base1",
+      "cardCount": 102,
+      "sha256": "21ad25369c9118cbeb4f8c82a8c0c51a8c1f9df86b7c11974e37ad75dc4945e0"
+    },
+    {
+      "externalSetId": "base2",
+      "cardCount": 64,
+      "sha256": "c85c46094246c260d5a6a0216a7f1068e376bfb310d25e81f514d0247e0df15e"
+    },
+    {
+      "externalSetId": "base3",
+      "cardCount": 62,
+      "sha256": "646591bea607a30ba3ef283933d07b037390377304499346ef9e6a201f17c8ba"
+    },
+    {
+      "externalSetId": "base4",
+      "cardCount": 130,
+      "sha256": "2dff10e977cdef1a302df2373f11c64f4ac042aab76ffe3d88569bf3a956bbfd"
+    },
+    {
+      "externalSetId": "base5",
+      "cardCount": 83,
+      "sha256": "23d9aa9bebb02fde39b41a1e04d4dd6af1c26dd4e340c41a6f294d506378739e"
+    },
+    {
+      "externalSetId": "basep",
+      "cardCount": 53,
+      "sha256": "07c7e5a5bceb1627cee60480404fbe8a54f9e1f82c40dcacbe5b11e9ba59eef0"
+    },
+    {
+      "externalSetId": "bog",
+      "cardCount": 9,
+      "sha256": "e394752f5708a50301055d27e56cdecc5d524e84cdfd1e523b1f145da849d608"
+    },
+    {
+      "externalSetId": "bw1",
+      "cardCount": 115,
+      "sha256": "b39ddd00327070b4f93ada402baa0488a0950bc3a1a998fb0786d356e51896a6"
+    },
+    {
+      "externalSetId": "bw10",
+      "cardCount": 105,
+      "sha256": "319048621960a0b374743ded5855afd01fd47a6db144a4ff4e563a994c5443f9"
+    },
+    {
+      "externalSetId": "bw11",
+      "cardCount": 140,
+      "sha256": "7cc5d044c05b7d4368ee261654f1980312ddfee3ea59bf3170541a80a2560281"
+    },
+    {
+      "externalSetId": "bw2",
+      "cardCount": 98,
+      "sha256": "a21525617b50381010a905521c3947d41e7b437670be1b80690054920e2f8c63"
+    },
+    {
+      "externalSetId": "bw3",
+      "cardCount": 102,
+      "sha256": "76200dbfe564224b28818ec2ec92f1a1c1924a0a5c5245b69a5ee79106dee324"
+    },
+    {
+      "externalSetId": "bw4",
+      "cardCount": 103,
+      "sha256": "6f6294c166f227db5bafcaa4d29f53b69bbbc02422abddd74a0652e1057751da"
+    },
+    {
+      "externalSetId": "bw5",
+      "cardCount": 111,
+      "sha256": "4f0f189557e9763613d7a847ef93a74c1fb9df053c052fa096554c5cec6df4d1"
+    },
+    {
+      "externalSetId": "bw6",
+      "cardCount": 128,
+      "sha256": "c830d9ab3e458375b2cfd6d7f5244d612abeabb003203bee9074d5ffae733ca8"
+    },
+    {
+      "externalSetId": "bw7",
+      "cardCount": 153,
+      "sha256": "a56737889ea54670109b936baeaeb010e726fe2a41ea29183a4daee89184ccf3"
+    },
+    {
+      "externalSetId": "bw8",
+      "cardCount": 138,
+      "sha256": "7ea6d65484eb18cad491304fcee4332d1cda1c9de2575638d90c3bdc1f3d74a2"
+    },
+    {
+      "externalSetId": "bw9",
+      "cardCount": 122,
+      "sha256": "8363cef1127da7a1088a94092342f3b69fddf6e1940302beac23c9a0f1493490"
+    },
+    {
+      "externalSetId": "bwp",
+      "cardCount": 101,
+      "sha256": "6fa189bbc2c5d1e8d1fdb43e7aaa37276ffd8657c00aedaa64ee494c98333619"
+    },
+    {
+      "externalSetId": "cel25",
+      "cardCount": 25,
+      "sha256": "fff303ee8ad1ed3114aec895810b584d5e458d99521e7857b8dfd3bc9a65e39a"
+    },
+    {
+      "externalSetId": "cel25cc",
+      "cardCount": 25,
+      "sha256": "d94bc71dbebd13bd84afbbe84678a6cbcb15ed4df77a5b064bbecddb0b96c300"
+    },
+    {
+      "externalSetId": "col1",
+      "cardCount": 106,
+      "sha256": "75e4f0dc8e335c8731102c10ee5feb2cbe66112ce2d2096871a05ee88538fe8c"
+    },
+    {
+      "externalSetId": "dc1",
+      "cardCount": 34,
+      "sha256": "ceb82db6247f4a45b86d1eb0cb8e65d99cf909d9dc6f911729584e5703ec2148"
+    },
+    {
+      "externalSetId": "det1",
+      "cardCount": 19,
+      "sha256": "b1cf2b7267f596caa20525290cb871dbbdd7f09aa78b96f17e8107e0924e67ab"
+    },
+    {
+      "externalSetId": "dp1",
+      "cardCount": 130,
+      "sha256": "6ad4d2e3a66c179505fc0b9b2bd0c308d650480a7a088a6845312dba2544d5d1"
+    },
+    {
+      "externalSetId": "dp2",
+      "cardCount": 124,
+      "sha256": "0131b5ea7a91be74001b601ccd9f71aa7270158a34c8b5a4ef625fcb344be49e"
+    },
+    {
+      "externalSetId": "dp3",
+      "cardCount": 132,
+      "sha256": "bc00cb13c5439131fbdaf2aad6ebf03b84748201a58e58b6fdb5afd701f22056"
+    },
+    {
+      "externalSetId": "dp4",
+      "cardCount": 106,
+      "sha256": "dda624d14a690a37f660aed342034037f4fa6927b7848ee2e65de3023eef3903"
+    },
+    {
+      "externalSetId": "dp5",
+      "cardCount": 100,
+      "sha256": "74e7e164da2e82094b627bd9a73e021479b79761398c50c88e39fae76428ab7e"
+    },
+    {
+      "externalSetId": "dp6",
+      "cardCount": 146,
+      "sha256": "b2bde6a995efb38fb6bcad95d08bff4353f4322e5afb51d15ccc711e289c4132"
+    },
+    {
+      "externalSetId": "dp7",
+      "cardCount": 106,
+      "sha256": "33d06a0670693335e29408ed017e5f5a0a11f4027303adfb52d9e6a86bf639ff"
+    },
+    {
+      "externalSetId": "dpp",
+      "cardCount": 56,
+      "sha256": "a1b7898afead303c6ec994adccf8532051ae3261afb68f3126c14c8a5088f0cc"
+    },
+    {
+      "externalSetId": "dv1",
+      "cardCount": 21,
+      "sha256": "00400b9add56502196186d599360e1c706f6cb99db058a0a06b0c521f45a29fd"
+    },
+    {
+      "externalSetId": "ecard1",
+      "cardCount": 165,
+      "sha256": "18aaaf40baf1b981078c96935e42dc3f6cd89a4f3c8540457b8926f853649f14"
+    },
+    {
+      "externalSetId": "ecard2",
+      "cardCount": 186,
+      "sha256": "df66f402e4bca4b715e31207e8384b98fcd5d27f81ce3ab941ace1d5ecc2db93"
+    },
+    {
+      "externalSetId": "ecard3",
+      "cardCount": 182,
+      "sha256": "c7bb5cd26cccc4c60a387ae8944f77e51fdb1dcf15ccd1fc67f747f82fa54131"
+    },
+    {
+      "externalSetId": "ex1",
+      "cardCount": 109,
+      "sha256": "015f9788a515a2e509745588f1055080273f9ef95091af50c409db34fe5fed08"
+    },
+    {
+      "externalSetId": "ex10",
+      "cardCount": 117,
+      "sha256": "16787af7d8f88c7ff60216705cf3be23b3fd0f19741ed83be0a1ae3f48b26786"
+    },
+    {
+      "externalSetId": "ex11",
+      "cardCount": 114,
+      "sha256": "b45cd04f859cae222cf1c387c1264dff20cb115155232b9a45bcd347a65fe9cb"
+    },
+    {
+      "externalSetId": "ex12",
+      "cardCount": 93,
+      "sha256": "3993ad97eb19c64f54c2e1875a0dd30f54c5b848e241c6930769639e1be6bb62"
+    },
+    {
+      "externalSetId": "ex13",
+      "cardCount": 111,
+      "sha256": "1b8d256ff65c495cc910618a338b0356129ac9d22f988775c9fe8e59dc9136da"
+    },
+    {
+      "externalSetId": "ex14",
+      "cardCount": 100,
+      "sha256": "f33cb7a774fe12c2c9c9cdfc5851898bd8857f81e876ef7de53119414946b9e8"
+    },
+    {
+      "externalSetId": "ex15",
+      "cardCount": 101,
+      "sha256": "29a8b019a66f3254f662c6b3fc818c3b1b81b4d09dc8aac1a3b672f6de86d9c5"
+    },
+    {
+      "externalSetId": "ex16",
+      "cardCount": 108,
+      "sha256": "0e427eef8243344fd9cbc3d309382feadecf5547cba4e0ac14bbcaf2272c4f47"
+    },
+    {
+      "externalSetId": "ex2",
+      "cardCount": 100,
+      "sha256": "c0118ea7c32f736ce858dd6ba644fd1b32536db8c4cea11a967c31c8b20aeac2"
+    },
+    {
+      "externalSetId": "ex3",
+      "cardCount": 100,
+      "sha256": "1d2ea3afc23bbd4bbf95c7e2be7ced58186cbf0b8e471a9fa6378da3f9c889aa"
+    },
+    {
+      "externalSetId": "ex4",
+      "cardCount": 97,
+      "sha256": "f77cefd81cdc3b85003607803f46f34188078055811062a7c1ce7a588886c588"
+    },
+    {
+      "externalSetId": "ex5",
+      "cardCount": 102,
+      "sha256": "fa0760584951acad78d5fab9400b6bae4639cb3ef053b3db3d23e6664cb64466"
+    },
+    {
+      "externalSetId": "ex5.5",
+      "cardCount": 5,
+      "sha256": "8d911bf2ad7c22c42a8401345a7bf035929164d64e49a19d34f77cd6b28afcf8"
+    },
+    {
+      "externalSetId": "ex6",
+      "cardCount": 116,
+      "sha256": "8630e94059acc8d68ab27feef21300c0d03e8bb094be1778015d9034b2f29a8b"
+    },
+    {
+      "externalSetId": "ex7",
+      "cardCount": 111,
+      "sha256": "133ece08cfaaa317800775e384aecc98d3ceb2562004220a4481a44cd5b491b1"
+    },
+    {
+      "externalSetId": "ex8",
+      "cardCount": 108,
+      "sha256": "9d0f7b97cb612c29feeb2d8da24c55af1caa91ef0475e27f5da40427dfe38278"
+    },
+    {
+      "externalSetId": "ex9",
+      "cardCount": 107,
+      "sha256": "d665f128f61238699583e128569b486233650b2c1b3092d9ecbbf63842bbea4d"
+    },
+    {
+      "externalSetId": "exu",
+      "cardCount": 28,
+      "sha256": "ef3ea48380a474a9a92a53fb925352dbab45627149e522891ed92566a784720c"
+    },
+    {
+      "externalSetId": "fut2020",
+      "cardCount": 5,
+      "sha256": "b5e9d80df53a2f9abea985f89e1223ba45179833c2da9a6fec104123a127e223"
+    },
+    {
+      "externalSetId": "g1",
+      "cardCount": 117,
+      "sha256": "621a36c1c4315c252731556819d960784eae1afb4a4738eee829400c25eb7e0e"
+    },
+    {
+      "externalSetId": "gym1",
+      "cardCount": 132,
+      "sha256": "034372ee6cd02d0cac37e177038c9325f42e8e0eb5670c006d91b1c3a5a7e469"
+    },
+    {
+      "externalSetId": "gym2",
+      "cardCount": 132,
+      "sha256": "10f81644a09ee3db07a9ccdf61a67a4691ff564f3569dc2b82940b146f69b091"
+    },
+    {
+      "externalSetId": "hgss1",
+      "cardCount": 124,
+      "sha256": "40195673c814e6809e7526f6d6884b8149cd3985c06b6be6e36669e6d0bed408"
+    },
+    {
+      "externalSetId": "hgss2",
+      "cardCount": 96,
+      "sha256": "076324838c01aa5a4db2fd8434c67bf88704fc1ea4b0a3cd8e302d0ee6d84658"
+    },
+    {
+      "externalSetId": "hgss3",
+      "cardCount": 91,
+      "sha256": "8437aae8c00cb7b61eb3e965a25257e7a8838bb6aa9e73abd54154e9ced5d646"
+    },
+    {
+      "externalSetId": "hgss4",
+      "cardCount": 103,
+      "sha256": "e6fea107f840b87ebefdb3633b094af79ff4299377e81bae1eaea16268d2d5ba"
+    },
+    {
+      "externalSetId": "hgssp",
+      "cardCount": 25,
+      "sha256": "402e569e65c88c254c4e49914e3918acdecfa89e451a3f09dffdd2732f07ec14"
+    },
+    {
+      "externalSetId": "lc",
+      "cardCount": 110,
+      "sha256": "30a4c6a157ace058df58b045b29c14fcb799763308eae8ce63862f509e4909df"
+    },
+    {
+      "externalSetId": "me01",
+      "cardCount": 188,
+      "sha256": "24c35e8916952462c7318196dfdcdb8bcb29b93aba846a1e69a109f0c1d1e14b"
+    },
+    {
+      "externalSetId": "me02",
+      "cardCount": 130,
+      "sha256": "11b45304f7a5e92c6e50d40008c24986c269db35580cca2c0f35a6863eb106d7"
+    },
+    {
+      "externalSetId": "me02.5",
+      "cardCount": 295,
+      "sha256": "85a1c4c4737f9493e70d876af42d3f61128b3b38ace4681dfb7d2431a0587dce"
+    },
+    {
+      "externalSetId": "me03",
+      "cardCount": 124,
+      "sha256": "be27f3c0dfe9caceb974c487d6688a53cf0d289e442a2632c273960ac9604606"
+    },
+    {
+      "externalSetId": "me04",
+      "cardCount": 122,
+      "sha256": "86789be7c95ec6a3fa4ab7ace423a1e7246f6b92a7ba4dab484901bb942a1897"
+    },
+    {
+      "externalSetId": "me05",
+      "cardCount": 120,
+      "sha256": "6a866d65bff27f618516f83ad9aeee3dba7235beedecf5803e5981d7bcf5922c"
+    },
+    {
+      "externalSetId": "mee",
+      "cardCount": 16,
+      "sha256": "d01eb9973bf6c7da354b1bb1fecdbca9a5a281b9125d12b33a70f00c57599d47"
+    },
+    {
+      "externalSetId": "mep",
+      "cardCount": 112,
+      "sha256": "03fbba441b390ed053cc855cdf5697b7d34490e2514dda3402ed7e04b83ecbff"
+    },
+    {
+      "externalSetId": "mfb",
+      "cardCount": 34,
+      "sha256": "2ffba40516f6f0d39122e6a9d9d396b3ad47394e526404f4bba43dc165a536b1"
+    },
+    {
+      "externalSetId": "miscp",
+      "cardCount": 1,
+      "sha256": "4f8bc3dfaf95e13722037b19b0614d3b0a3d0810129c5d111c9675a7e32a7253"
+    },
+    {
+      "externalSetId": "neo1",
+      "cardCount": 111,
+      "sha256": "6c0ef70295ba683a9d317d193cf8ebf449dcb2075ea1598dfe13bfff81170b7d"
+    },
+    {
+      "externalSetId": "neo2",
+      "cardCount": 75,
+      "sha256": "08ad702b4db8c114a0873dd9aadf9d62bcce626efc06cf563c03acb1de52e15d"
+    },
+    {
+      "externalSetId": "neo3",
+      "cardCount": 66,
+      "sha256": "6b11c60e37a0fb62f858fcbbbdb91e7113353adb6cee1c8a3f74dee030ea5914"
+    },
+    {
+      "externalSetId": "neo4",
+      "cardCount": 113,
+      "sha256": "c78e37d035a2fc12804942a7adbe137aa2358e5d9d9314f214bf54c9a55e691c"
+    },
+    {
+      "externalSetId": "np",
+      "cardCount": 40,
+      "sha256": "1ff957705b92bcbecb133a49d3896fae1b863a6d9a5efbbf59c54b9634719067"
+    },
+    {
+      "externalSetId": "pl1",
+      "cardCount": 133,
+      "sha256": "48822e59120f736bd9c13433529074b43038b3f8186bc8e7e7961f13243e8262"
+    },
+    {
+      "externalSetId": "pl2",
+      "cardCount": 120,
+      "sha256": "0cb38e3d87c70a964ca143dbb52d350a80d115550e69ba125867865f90909a5e"
+    },
+    {
+      "externalSetId": "pl3",
+      "cardCount": 153,
+      "sha256": "8cbb4584999fba8d814d392e2d2c2402f3c5c9428ff3085db956f84bac829213"
+    },
+    {
+      "externalSetId": "pl4",
+      "cardCount": 111,
+      "sha256": "9d13680c9a08724144c81d07d4ab9122cc135917f98c114dc8f4ba7cf71019c0"
+    },
+    {
+      "externalSetId": "pop1",
+      "cardCount": 17,
+      "sha256": "7fbeb80e06493fd6e47bd58e1b4aa9a24a4bf69fd039ec2779c326e575cf1403"
+    },
+    {
+      "externalSetId": "pop2",
+      "cardCount": 17,
+      "sha256": "ecce532b7b184ae40a8d555d0b1861d2470935534f0babbb5393cad6b1293ad6"
+    },
+    {
+      "externalSetId": "pop3",
+      "cardCount": 17,
+      "sha256": "0b4128630dcefece9b7bec81cfad918db3c58d0be23d99a260c3448e3c2ed10b"
+    },
+    {
+      "externalSetId": "pop4",
+      "cardCount": 17,
+      "sha256": "711dc983938ab9a56afa4dd3ea43393c40b1bfa93dc5209d5887d8a3bf5916fa"
+    },
+    {
+      "externalSetId": "pop5",
+      "cardCount": 17,
+      "sha256": "63505384c90eaf359bd1c29111e21eb6d4203e3a31e6f0765114612d8c3ddf67"
+    },
+    {
+      "externalSetId": "pop6",
+      "cardCount": 17,
+      "sha256": "045ca551902fd017206e85a0873b14d48b50dfdd91b5703a674f03b3a0b540fa"
+    },
+    {
+      "externalSetId": "pop7",
+      "cardCount": 17,
+      "sha256": "96413f29b99dce771a1579fe2943c6b98202e91fef5f14f205b58ba5ee77ea52"
+    },
+    {
+      "externalSetId": "pop8",
+      "cardCount": 17,
+      "sha256": "f947eda4d1b6b04cec261e45ce3a7cc7c66a90e81abb8e5ad93f655a19170b11"
+    },
+    {
+      "externalSetId": "pop9",
+      "cardCount": 17,
+      "sha256": "040d55ce692ebf9cdbe4b8f8c31607b4362ce2b602d30305394bb6f5ef52ec92"
+    },
+    {
+      "externalSetId": "ru1",
+      "cardCount": 16,
+      "sha256": "d616003632c2e95b2cdf832d6ee8f327ff996f80082bb689f5394c46f025781c"
+    },
+    {
+      "externalSetId": "si1",
+      "cardCount": 18,
+      "sha256": "0ddbf6ae051b4e9fcac09d2f8fb960d6c0f10771da80948d5cab91016ae04b4e"
+    },
+    {
+      "externalSetId": "sm1",
+      "cardCount": 172,
+      "sha256": "b06a21e0e02f23d201c8cb5b64d8b6c6d50eca4a428ebb0af106473680f250e3"
+    },
+    {
+      "externalSetId": "sm10",
+      "cardCount": 234,
+      "sha256": "4d27d1b943234461331df2270852cad2f5eaeda59f538cc6c43d27e0fb46805e"
+    },
+    {
+      "externalSetId": "sm11",
+      "cardCount": 258,
+      "sha256": "9b49cda39c604f722c985b242f79fc52c0d35cd00a31fea615673f5b52a23627"
+    },
+    {
+      "externalSetId": "sm115",
+      "cardCount": 69,
+      "sha256": "c0e02149ecd578a6e1898272e2b5f6bdffa1cfdd7d8df3ddb3ce0ff18eeab5e9"
+    },
+    {
+      "externalSetId": "sm12",
+      "cardCount": 271,
+      "sha256": "62dd1d892e7fe7feba3066731898ff014d1d8b4075e278a5ffa4797515bfbf64"
+    },
+    {
+      "externalSetId": "sm2",
+      "cardCount": 169,
+      "sha256": "86f2d9583ea34ba1244276b4c43f593ef77d5064452488f9f66ea82bc8c5e953"
+    },
+    {
+      "externalSetId": "sm3",
+      "cardCount": 169,
+      "sha256": "1ab2de5cc0bd2fced63fb6ed61ba4132c037826db5b6efe4ece37a46d8e4e787"
+    },
+    {
+      "externalSetId": "sm3.5",
+      "cardCount": 78,
+      "sha256": "af448950bdea59010b1b4c9a9c66e7d3c23d1c4c0f0d4407a619ed8351af6a47"
+    },
+    {
+      "externalSetId": "sm4",
+      "cardCount": 125,
+      "sha256": "844a58bb40883fe1d090e9755b9d1191df7eb2f65960dda8a3236541ee844e65"
+    },
+    {
+      "externalSetId": "sm5",
+      "cardCount": 173,
+      "sha256": "8f9f155f50179cd7b12174760fcdc5aa9b1b6d53a71b889a76cd2abd1509f141"
+    },
+    {
+      "externalSetId": "sm6",
+      "cardCount": 146,
+      "sha256": "02eb891b62ff59d8ce4eb87f6e4c86e7641a7d9b8b6f1577cd3c3628570ace81"
+    },
+    {
+      "externalSetId": "sm7",
+      "cardCount": 183,
+      "sha256": "aaa2302a5e4067bd3b06a35e298093869ce9294ae7b501df7e5cbdb4a1339b88"
+    },
+    {
+      "externalSetId": "sm7.5",
+      "cardCount": 78,
+      "sha256": "246ee3692f44db6b77ec3252300b8708ba1ebe327fae55279510e2f2fa8e3e9c"
+    },
+    {
+      "externalSetId": "sm8",
+      "cardCount": 236,
+      "sha256": "1b8429b7d881c4519b22424fe5e233da228df805b52a1e391dcc83c2259654c5"
+    },
+    {
+      "externalSetId": "sm9",
+      "cardCount": 196,
+      "sha256": "1004fd2eb5be0d66d8a417748922b7fbe485640ab9571f989496c4336ca065eb"
+    },
+    {
+      "externalSetId": "sma",
+      "cardCount": 94,
+      "sha256": "4348e38c9d0940aa2d11928b9769a3fd5a9ed3edf74517d9d68fc5e31421531f"
+    },
+    {
+      "externalSetId": "smp",
+      "cardCount": 248,
+      "sha256": "c317b347c782ae4306aa0b88814c9d32d4e7e8f026d6817217e4b596cf4d7977"
+    },
+    {
+      "externalSetId": "sv01",
+      "cardCount": 258,
+      "sha256": "242f54ad939bf2e1298e68bc5447d229ce09c5b247a50c65e03de3b7ed6c8f91"
+    },
+    {
+      "externalSetId": "sv02",
+      "cardCount": 279,
+      "sha256": "4d95186ea295c18640e46a8f712a354423f6e3c75ffebadc6ea656ab9b5c08d8"
+    },
+    {
+      "externalSetId": "sv03",
+      "cardCount": 230,
+      "sha256": "ea455a6debde3a3085c1644fd3b9e57304c68f76ff361b3a3cdf5b7fd23e16ff"
+    },
+    {
+      "externalSetId": "sv03.5",
+      "cardCount": 207,
+      "sha256": "046e6bf526d0b5a70eb7fa6a2d714d4f95f73145249d6a4816cf34b8beaa6700"
+    },
+    {
+      "externalSetId": "sv04",
+      "cardCount": 266,
+      "sha256": "7fb094085d4144d7a97e17f53b8db2cd696e3c68eb0e3364ec334219df13ca6c"
+    },
+    {
+      "externalSetId": "sv04.5",
+      "cardCount": 245,
+      "sha256": "e0a9ad9b037b64932ac551a52da010db5f67a59d6f697b7c978a2402a985bcfa"
+    },
+    {
+      "externalSetId": "sv05",
+      "cardCount": 218,
+      "sha256": "9c582a886c909fa40878d0aa9830d97ec72004466d9aa638d4bf60b601d947ad"
+    },
+    {
+      "externalSetId": "sv06",
+      "cardCount": 226,
+      "sha256": "7eb6e49b173464826c91a2236f7af461872f43d35bfb4d1db75da5e10f8d22d1"
+    },
+    {
+      "externalSetId": "sv06.5",
+      "cardCount": 99,
+      "sha256": "929c348801113448f9542a12699f71e4bb2f9643f7944f314292c65fee8b3dea"
+    },
+    {
+      "externalSetId": "sv07",
+      "cardCount": 175,
+      "sha256": "58624a836cb22c703460455d89a55b5fdc44984501c47ccd1947e2bff4c548dd"
+    },
+    {
+      "externalSetId": "sv08",
+      "cardCount": 252,
+      "sha256": "84ac650823034c531d97944f20dd52e1e955d27a519d1eec418941ce800622e6"
+    },
+    {
+      "externalSetId": "sv08.5",
+      "cardCount": 180,
+      "sha256": "d28788737431957f585ccd4b466e7649a960bf2672714e809eaec8bfd031b742"
+    },
+    {
+      "externalSetId": "sv09",
+      "cardCount": 190,
+      "sha256": "518fc45ab88304e05345a5b316df96679f34cad256e407b94e0421652054ea81"
+    },
+    {
+      "externalSetId": "sv10",
+      "cardCount": 244,
+      "sha256": "bb827e6143637818c3a791f03aa6ee59f1f4323dae54dface6e8d71a740d4759"
+    },
+    {
+      "externalSetId": "sv10.5b",
+      "cardCount": 172,
+      "sha256": "4d41b14cd4a0f5892c714dbe1daddbddf45f9fe4e7ae2e118f4d1123a3afd2f2"
+    },
+    {
+      "externalSetId": "sv10.5w",
+      "cardCount": 173,
+      "sha256": "6763076403e130d18afa5c524f67f91029285fcd920780164ba5de74dc51dde4"
+    },
+    {
+      "externalSetId": "sve",
+      "cardCount": 24,
+      "sha256": "581e18e5b95716687d64d13404b97f3aa11c328ea08f04c2cdbc11d5d85eeab5"
+    },
+    {
+      "externalSetId": "svp",
+      "cardCount": 226,
+      "sha256": "8252005044c2e8554996038c63221926fc83535831d6e2203e10a7f7557420cc"
+    },
+    {
+      "externalSetId": "swsh1",
+      "cardCount": 216,
+      "sha256": "dfa43ec2166d7081e6b53f6111730e5eb29be02962b8b63d31f73f0354892c5e"
+    },
+    {
+      "externalSetId": "swsh10",
+      "cardCount": 216,
+      "sha256": "1db042af456a1184937b36dcb2530ba053694f35dc80f30e6380cd3aae716125"
+    },
+    {
+      "externalSetId": "swsh10.5",
+      "cardCount": 88,
+      "sha256": "c553cdf833529eac99f7cfd863f2c58f1145c1990aec3c5aa839b5705e5392f2"
+    },
+    {
+      "externalSetId": "swsh10tg",
+      "cardCount": 30,
+      "sha256": "e2e50f29a819cb0bf225ea396cfc904ae21b8b2095c960284b911232f0a31d53"
+    },
+    {
+      "externalSetId": "swsh11",
+      "cardCount": 217,
+      "sha256": "8b3cba391aeeeb509e199ba840fae2768a2b5c6345d96a2fa4ba959a96aa4daf"
+    },
+    {
+      "externalSetId": "swsh11tg",
+      "cardCount": 30,
+      "sha256": "2c4201783bec8393b49693eb8e5edef030eac8c0a325981368c0cab00c94597b"
+    },
+    {
+      "externalSetId": "swsh12",
+      "cardCount": 215,
+      "sha256": "c8e5cde5b7b9c4f4693071dac9506ab6e3cd8dee7679be0195dd189c5d067e8f"
+    },
+    {
+      "externalSetId": "swsh12.5",
+      "cardCount": 160,
+      "sha256": "e2c87a932aa4de0c52952ac66d16eaa76d0055498052cb4abcbfa7f008519d10"
+    },
+    {
+      "externalSetId": "swsh12.5gg",
+      "cardCount": 70,
+      "sha256": "727c2e442b6ba231f80a855733a6ed339490826f3ccf2e47734ac2ac4b827b98"
+    },
+    {
+      "externalSetId": "swsh12tg",
+      "cardCount": 30,
+      "sha256": "6b60b5d468c972597f7c1476fba9d86f7865a700ec228b847a4745a9fe2b3d42"
+    },
+    {
+      "externalSetId": "swsh2",
+      "cardCount": 209,
+      "sha256": "458f07683f99b2f3de8062e2e724713cb9227d86c9885b37f067218c929e94ed"
+    },
+    {
+      "externalSetId": "swsh3",
+      "cardCount": 201,
+      "sha256": "465dd0e57573f1ad90fee7c1989a3a041b07de0c3711a016a110787a16e0c4cd"
+    },
+    {
+      "externalSetId": "swsh3.5",
+      "cardCount": 80,
+      "sha256": "e382bf5066998e931395994dccb3afb18a2a29db334f8602fa5e0af1436082cc"
+    },
+    {
+      "externalSetId": "swsh4",
+      "cardCount": 203,
+      "sha256": "6e8871b50b4d694bf789d58aed85d1bfe26ceedbd0b372b9e5d01c882c4808f7"
+    },
+    {
+      "externalSetId": "swsh4.5",
+      "cardCount": 73,
+      "sha256": "cdcd384385535386d5bc561f1a784e2b3634aa7cff0a7424cf68a6ce25412973"
+    },
+    {
+      "externalSetId": "swsh4.5sv",
+      "cardCount": 122,
+      "sha256": "911cc27ec0fa99c9684be4fd97ba8492d7365ed871d69206c0331a3b43650cc9"
+    },
+    {
+      "externalSetId": "swsh5",
+      "cardCount": 183,
+      "sha256": "c6a5104fb7e5cd1bb6b91305cbb321192422b59d7744d1788e43758f7cbd86ab"
+    },
+    {
+      "externalSetId": "swsh6",
+      "cardCount": 233,
+      "sha256": "af284522cd2ebecb6f8e4529ddeb07464035db3fd78afb5bddb7b14bd1d50b6d"
+    },
+    {
+      "externalSetId": "swsh7",
+      "cardCount": 237,
+      "sha256": "1aab3cabbf721fd5925398e8c2ac5b322e0b1d2472072582195d52b57b198066"
+    },
+    {
+      "externalSetId": "swsh8",
+      "cardCount": 284,
+      "sha256": "c25453c33cc44fae1f5db8f86dac2b8a27a25fbaa94624c170c1484d1bb117d4"
+    },
+    {
+      "externalSetId": "swsh9",
+      "cardCount": 186,
+      "sha256": "a59b9de8aa0ef3f4b5c973fd0b5eca4adabbf054dd1025508f22b95cad9a0ab3"
+    },
+    {
+      "externalSetId": "swsh9tg",
+      "cardCount": 30,
+      "sha256": "2d6af2540dc82733e00df5c014c072cda1e681f54846f503c64f2b1d7bf81679"
+    },
+    {
+      "externalSetId": "swshp",
+      "cardCount": 307,
+      "sha256": "e7585b174802ee1c5536dc6c2c75e7b0162ffbccbe3fffe0489886b435a62d56"
+    },
+    {
+      "externalSetId": "tk-bw-e",
+      "cardCount": 30,
+      "sha256": "949a513c5af375483940f9c7a0834bf13ea2b8d246b668d82c3b8f9c45b17180"
+    },
+    {
+      "externalSetId": "tk-bw-z",
+      "cardCount": 30,
+      "sha256": "9cd5ddfb8882c66f2998d326f07474ef76312257d49df7dab3eb48e7e7449789"
+    },
+    {
+      "externalSetId": "tk-dp-l",
+      "cardCount": 11,
+      "sha256": "7c1d80b0a2b1444fc196e9fdef3253bf3f0ab9c4494f879d209a92953a90f7c4"
+    },
+    {
+      "externalSetId": "tk-dp-m",
+      "cardCount": 12,
+      "sha256": "9e8a1ef8925f89723c60877fd24b8a2f2d98006170a855c812c47128412f85fe"
+    },
+    {
+      "externalSetId": "tk-ex-latia",
+      "cardCount": 10,
+      "sha256": "f845bc06bc7b06569e56c5f371356eee0c677184a8b64b4570bbb4470a1eb76b"
+    },
+    {
+      "externalSetId": "tk-ex-latio",
+      "cardCount": 10,
+      "sha256": "0ecefc88669c61de1cac6752c1095a95e3d2315a97382e27688eb4a267cda5cb"
+    },
+    {
+      "externalSetId": "tk-ex-m",
+      "cardCount": 12,
+      "sha256": "e69ff08c3a592a7c5494861561b603fe1d9be116cd1bc40fc8844863658b8632"
+    },
+    {
+      "externalSetId": "tk-ex-p",
+      "cardCount": 12,
+      "sha256": "ede0861440cad5db11348bb70b6c8d0577b903b323d2564c6dd23e431ac93d1f"
+    },
+    {
+      "externalSetId": "tk-hs-g",
+      "cardCount": 30,
+      "sha256": "e2a2e3bda52b28f155676fbc1b5f9d8e9b40c41cc41f289d23b250acd153d226"
+    },
+    {
+      "externalSetId": "tk-hs-r",
+      "cardCount": 30,
+      "sha256": "c66e4dba64b45b52ffcd32ab53b4cc1c7fa8256f132b84449504c703f782dca3"
+    },
+    {
+      "externalSetId": "tk-sm-l",
+      "cardCount": 18,
+      "sha256": "e20dedfca62a21d8cf824af143c51b482310a9164abba7c25b1783216b0d1d07"
+    },
+    {
+      "externalSetId": "tk-sm-r",
+      "cardCount": 30,
+      "sha256": "c13fa94ba6ea180a3f5b31949c8a9692d5e54fb65b2b465e6220c2bd1e59bddb"
+    },
+    {
+      "externalSetId": "tk-xy-b",
+      "cardCount": 30,
+      "sha256": "a395a9ae40ec6de8d994a095e1a46cef0b46177f322aebd2cf64da2338aedec0"
+    },
+    {
+      "externalSetId": "tk-xy-latia",
+      "cardCount": 30,
+      "sha256": "2b8f0d5eb618c0d4cdf99cd152bf2c0725d0dd99bdbcf3e989ca0c21865a33ea"
+    },
+    {
+      "externalSetId": "tk-xy-latio",
+      "cardCount": 30,
+      "sha256": "780df837b582fa6443558db851d5445a66233c3007fd536e9ca32ec7a6ab97c8"
+    },
+    {
+      "externalSetId": "tk-xy-n",
+      "cardCount": 30,
+      "sha256": "3b3d1e755c85a3e8be8a34be9b2f13f8918810b71df336de19319b3b47766cba"
+    },
+    {
+      "externalSetId": "tk-xy-p",
+      "cardCount": 30,
+      "sha256": "701d0745df58d43240b800b92144b7e319db94413fb6722756a1116771cc3cef"
+    },
+    {
+      "externalSetId": "tk-xy-su",
+      "cardCount": 30,
+      "sha256": "03c86704f277fa61d357e2520f23d8378a97bc9f8ffca198fdb5c3735f81f455"
+    },
+    {
+      "externalSetId": "tk-xy-sy",
+      "cardCount": 30,
+      "sha256": "18b949730bca67122ba22270cac4caec84a6fd1866c2c39470fd263b502155c6"
+    },
+    {
+      "externalSetId": "tk-xy-w",
+      "cardCount": 30,
+      "sha256": "1032a344e45411550c4749b719460beff524f26c269fc4993387ff2718b80eb8"
+    },
+    {
+      "externalSetId": "xy0",
+      "cardCount": 39,
+      "sha256": "4b3eb980bf0054d315eb456f93ebbd506f98f8601206e9a739c8e2d38ca8d62c"
+    },
+    {
+      "externalSetId": "xy1",
+      "cardCount": 146,
+      "sha256": "1d94c8e2afa9e28f30cc76c4cc675be15148eb1931395207c5a8e6aea082be98"
+    },
+    {
+      "externalSetId": "xy10",
+      "cardCount": 129,
+      "sha256": "270ca3d990038d9f5fe4aae4809d8072eb44182fe7b831aa8d9225050294c810"
+    },
+    {
+      "externalSetId": "xy11",
+      "cardCount": 116,
+      "sha256": "f53332ab44f2853fe1d05123d953e176c5c8d440403d103eff7ef55a068375ce"
+    },
+    {
+      "externalSetId": "xy12",
+      "cardCount": 113,
+      "sha256": "7d2b3d17ce343909951c22ad8d39534d3ad532e8dcd4d4773ad6f7867e675662"
+    },
+    {
+      "externalSetId": "xy2",
+      "cardCount": 110,
+      "sha256": "cb9229c16a6bd71eae4eb661612c131c3c4023df94e0568c3c1e44cefa36fc2e"
+    },
+    {
+      "externalSetId": "xy3",
+      "cardCount": 114,
+      "sha256": "fa49640a738a40fef260a0f45517a7cfcc6bd9eb947c88f87ee657f969093782"
+    },
+    {
+      "externalSetId": "xy4",
+      "cardCount": 124,
+      "sha256": "df9ce0c7195d3265fee3e9dc65548e5a5410917ad0e8cc36cfc9bcf129dfa6d0"
+    },
+    {
+      "externalSetId": "xy5",
+      "cardCount": 164,
+      "sha256": "cfff08b25437318c1ae758733b7dfff271fadde9efcb3bd133186f1b51a63225"
+    },
+    {
+      "externalSetId": "xy6",
+      "cardCount": 112,
+      "sha256": "89b9bbb851ef27c12e489303afcdaa6c83450569b937a716c2c43aa6e5b04623"
+    },
+    {
+      "externalSetId": "xy7",
+      "cardCount": 101,
+      "sha256": "041b3b8e396b290272655ed1ca44b621aa943c77ae65ff78bdb5ea73fb51356c"
+    },
+    {
+      "externalSetId": "xy8",
+      "cardCount": 165,
+      "sha256": "666df0a6ac8f39e151ccca8cffdb47a8b24128ae273afde20e655f635cbbc84f"
+    },
+    {
+      "externalSetId": "xy9",
+      "cardCount": 126,
+      "sha256": "caa1cd80949cb2dc2980b432c419883dba5ba6b1fc0ec6b9da36f0cfb341cc4c"
+    },
+    {
+      "externalSetId": "xya",
+      "cardCount": 6,
+      "sha256": "f5b976946c9fc747b8660fb123030b2feffa3ae7c74eac9ff394c796b0ae7ce4"
+    },
+    {
+      "externalSetId": "xyp",
+      "cardCount": 216,
+      "sha256": "d27c014f0be74cf095d2ed538d74906a921dbb5dae83a79ec00c37d13162f2b0"
+    }
+  ]
+}
