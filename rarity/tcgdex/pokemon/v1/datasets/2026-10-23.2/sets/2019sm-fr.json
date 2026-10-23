@@ -1,0 +1,176 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "2019sm-fr",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 41,
+  "cards": [
+    {
+      "externalCardId": "2019sm-fr-1",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-10",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-11",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-12",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-13",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-14",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-15",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-16",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-17",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-18",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-19",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-2",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-20",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-21",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-22",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-23",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-24",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-25",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-26",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-27",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-28",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-29",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-3",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-30",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-31",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-32",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-33",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-33b",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-34",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-35",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-36",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-37",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-38",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-39",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-4",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-40",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-5",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-6",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-8",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-fr-9",
+      "providerRarityValue": "None"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "2019sm",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 12,
+  "cards": [
+    {
+      "externalCardId": "2019sm-1",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-10",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-11",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-12",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-2",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-3",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-4",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-5",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-6",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-8",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2019sm-9",
+      "providerRarityValue": "None"
+    }
+  ]
+}

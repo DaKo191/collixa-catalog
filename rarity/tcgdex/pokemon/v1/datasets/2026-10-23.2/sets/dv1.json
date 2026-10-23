@@ -1,0 +1,96 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "dv1",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 21,
+  "cards": [
+    {
+      "externalCardId": "dv1-1",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-10",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-11",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-12",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-13",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-14",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-15",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-16",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-17",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-18",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-19",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-2",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-20",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-21",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "dv1-3",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-4",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-5",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-6",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-7",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-8",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "dv1-9",
+      "providerRarityValue": "Rare"
+    }
+  ]
+}

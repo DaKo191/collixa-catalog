@@ -1,0 +1,52 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "tk-ex-latio",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 10,
+  "cards": [
+    {
+      "externalCardId": "tk-ex-latio-1",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-10",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-2",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-3",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-4",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-5",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-6",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-8",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-ex-latio-9",
+      "providerRarityValue": "None"
+    }
+  ]
+}

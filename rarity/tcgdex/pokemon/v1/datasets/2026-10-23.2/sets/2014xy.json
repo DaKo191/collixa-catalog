@@ -1,0 +1,60 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "2014xy",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 12,
+  "cards": [
+    {
+      "externalCardId": "2014xy-1",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-10",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-11",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-12",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-2",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-3",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-4",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-5",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-6",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-7",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-8",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "2014xy-9",
+      "providerRarityValue": "None"
+    }
+  ]
+}

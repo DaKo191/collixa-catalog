@@ -1,0 +1,76 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "mee",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 16,
+  "cards": [
+    {
+      "externalCardId": "mee-001",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-002",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-003",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-004",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-005",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-006",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-007",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-008",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-009",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-010",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-011",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-012",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-013",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-014",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-015",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "mee-016",
+      "providerRarityValue": "Common"
+    }
+  ]
+}

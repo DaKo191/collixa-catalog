@@ -1,0 +1,88 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "det1",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 19,
+  "cards": [
+    {
+      "externalCardId": "det1-1",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-10",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-11",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-12",
+      "providerRarityValue": "Ultra Rare"
+    },
+    {
+      "externalCardId": "det1-13",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-14",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-15",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-16",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-17",
+      "providerRarityValue": "Ultra Rare"
+    },
+    {
+      "externalCardId": "det1-18",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-2",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-25",
+      "providerRarityValue": "Promo"
+    },
+    {
+      "externalCardId": "det1-3",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-4",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-5",
+      "providerRarityValue": "Ultra Rare"
+    },
+    {
+      "externalCardId": "det1-6",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "det1-7",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-8",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "det1-9",
+      "providerRarityValue": "Ultra Rare"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "tk-sm-l",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 18,
+  "cards": [
+    {
+      "externalCardId": "tk-sm-l-1",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-11",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-12",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-13",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-14",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-15",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-16",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-sm-l-18",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-19",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-21",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-22",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "tk-sm-l-23",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-25",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-27",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-29",
+      "providerRarityValue": "Common"
+    },
+    {
+      "externalCardId": "tk-sm-l-30",
+      "providerRarityValue": "None"
+    },
+    {
+      "externalCardId": "tk-sm-l-4",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "tk-sm-l-5",
+      "providerRarityValue": "Common"
+    }
+  ]
+}

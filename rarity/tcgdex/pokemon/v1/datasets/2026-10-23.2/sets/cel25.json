@@ -1,0 +1,112 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "cel25",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 25,
+  "cards": [
+    {
+      "externalCardId": "cel25-1",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-10",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-11",
+      "providerRarityValue": "Holo Rare"
+    },
+    {
+      "externalCardId": "cel25-12",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-13",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-14",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-15",
+      "providerRarityValue": "Holo Rare"
+    },
+    {
+      "externalCardId": "cel25-16",
+      "providerRarityValue": "Holo Rare V"
+    },
+    {
+      "externalCardId": "cel25-17",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-18",
+      "providerRarityValue": "Holo Rare V"
+    },
+    {
+      "externalCardId": "cel25-19",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-2",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-20",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-21",
+      "providerRarityValue": "Holo Rare"
+    },
+    {
+      "externalCardId": "cel25-22",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-23",
+      "providerRarityValue": "Holo Rare"
+    },
+    {
+      "externalCardId": "cel25-24",
+      "providerRarityValue": "Ultra Rare"
+    },
+    {
+      "externalCardId": "cel25-25",
+      "providerRarityValue": "Secret Rare"
+    },
+    {
+      "externalCardId": "cel25-3",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-4",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "cel25-5",
+      "providerRarityValue": "Holo Rare"
+    },
+    {
+      "externalCardId": "cel25-6",
+      "providerRarityValue": "Holo Rare V"
+    },
+    {
+      "externalCardId": "cel25-7",
+      "providerRarityValue": "Holo Rare VMAX"
+    },
+    {
+      "externalCardId": "cel25-8",
+      "providerRarityValue": "Holo Rare V"
+    },
+    {
+      "externalCardId": "cel25-9",
+      "providerRarityValue": "Holo Rare VMAX"
+    }
+  ]
+}

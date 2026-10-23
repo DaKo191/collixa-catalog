@@ -1,0 +1,36 @@
+{
+  "artifactSchemaVersion": 1,
+  "providerId": "tcgdex",
+  "gameId": "pokemon",
+  "externalSetId": "xya",
+  "sourceKind": "tcgdex-cards-database",
+  "datasetVersion": "2026-10-23.2",
+  "sourceRevision": "cbddf7e54033b1b58e44af1049c88832e55b94d0",
+  "cardCount": 6,
+  "cards": [
+    {
+      "externalCardId": "xya-107a",
+      "providerRarityValue": "Uncommon"
+    },
+    {
+      "externalCardId": "xya-24a",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "xya-28a",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "xya-54a",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "xya-55a",
+      "providerRarityValue": "Rare"
+    },
+    {
+      "externalCardId": "xya-92a",
+      "providerRarityValue": "Uncommon"
+    }
+  ]
+}
